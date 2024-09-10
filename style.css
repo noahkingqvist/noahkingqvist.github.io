@@ -1,0 +1,12 @@
+nav {
+    display:flex;
+    justify-content: space-evenly;
+}
+
+a {
+    color:black
+}
+
+body {
+    background-color:blanchedalmond
+}
