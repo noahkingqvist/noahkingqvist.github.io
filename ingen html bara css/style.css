@@ -1,5 +1,9 @@
 body {
-    background-color: aliceblue;
+    background-image: url(https://www.motortrend.com/files/662aad5d5c8aac0008fa2113/006-2024-volkswagen-id4-pros-interior.jpg);
+    background-attachment: fixed;
+    overscroll-behavior: none ;
+    color: white;
+    text-shadow: 4px 4px 4px black;
 }
 
 a {
@@ -10,4 +14,18 @@ img {
     opacity: 25px;
     width: 50%;
     height: 50%;
+    display: none;
 }
+
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+th {
+    color: white
+}
+
