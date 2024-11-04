@@ -38,7 +38,7 @@ body {
 }
 
 .img2 {
-    width: 1555px;
+    width: 100%;
 }
 
 ul {
@@ -60,6 +60,8 @@ section {
 .rubrik {
     grid-column: 1/-1;
     text-align: center;
+    font-size: 55px;
+    font-family: "Yellowtail", cursive;
 }
 
 section div {
@@ -68,9 +70,4 @@ section div {
 
 img {
     max-width: 100%;
-}
-
-.rubrik {
-    font-family: "Yellowtail", cursive;
-    font-size: 30px;
 }
